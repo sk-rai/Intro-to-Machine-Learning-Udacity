@@ -1,7 +1,5 @@
 # Investigating Enron's scandal using Machine Learning
 ===================================================
-By: Sebastian Ibarguen
-@sebasibarguen
 
 ## Introduction
 > [In addition to being the largest bankruptcy reorganization in American history at that time, Enron was cited as the biggest audit failure](http://en.wikipedia.org/wiki/Enron_scandal)
